@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<div align="center">
-   ![Metrics](https://metrics.lecoq.io/reddsimpson?template=classic&achievements=1&repositories=1&lines=1&stars=1&projects=1&notable=1&base.indepth=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&stars.limit=4&projects.limit=4&projects.descriptions=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&config.timezone=America%2FNew_York)
-</div>
+![Metrics](https://metrics.lecoq.io/reddsimpson?template=classic&achievements=1&repositories=1&lines=1&stars=1&projects=1&notable=1&base.indepth=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&stars.limit=4&projects.limit=4&projects.descriptions=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&config.timezone=America%2FNew_York)
+
+
 
 <!-- Stats and Most Used Languages -->
 <div align="center">
