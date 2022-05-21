@@ -2,13 +2,17 @@
 
 <!-- Stats and Most Used Languages -->
 <div align="center">  
-  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=reddsimpson&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Chsn's github stats" /> 
+   <img 
+      width="49%" 
+      height="auto" 
+      src="https://github-readme-stats.vercel.app/api?username=reddsimpson&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Chsn's github stats" /> 
   <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddsimpson&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 <!-- Contributions and Streak -->
 <div align="center">  
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=reddsimpson&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  <img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=reddsimpson&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Chan Simpson" /></div>
 </div>
 <!--
 **reddsimpson/reddsimpson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
