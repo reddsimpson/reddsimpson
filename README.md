@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Stats and Most Used Languages
+<!-- Stats and Most Used Languages -->
 <div align="center">
    <img 
         width="44%" 
@@ -13,7 +13,7 @@
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddsimpson&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-### Contributions and Streak
+<!-- Contributions and Streak -->
 <div align="center">  
    <img 
         width="50%" 
@@ -22,7 +22,7 @@
         alt="Chan Simpson" /></div>
 </div>
 
-### Visitor Counter
+<!-- Visitor Counter -->
 <div align="center">
    <br>
    <p align="centre"><b>Visitors Count</b></p>
