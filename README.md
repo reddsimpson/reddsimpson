@@ -12,12 +12,17 @@ https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/docume
 ![Metrics](https://metrics.lecoq.io/reddsimpson?template=classic&achievements=1&languages=1&base.indepth=false&traffic=1&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FNew_York)
 -->
 
-
+<br><br>
 <!-- Stats and Most Used Languages -->
 ![](https://raw.githubusercontent.com/reddsimpson/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/reddsimpson/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/reddsimpson/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/reddsimpson/github-stats/master/generated/languages.svg#gh-light-mode-only)
+<br>&nbsp;&nbsp;&nbsp;<sub><sup>*Stats provided by jstrieb: https://github.com/jstrieb/github-stats</sup></sub>
 
-<div align="center">
+<!-- Grade, Stats, and Most Used Languages -->
+<!--
+<div align="left">
    <img 
         width="44%" 
         height="auto" 
@@ -28,8 +33,9 @@ https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/docume
         height="auto" 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddsimpson&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
-
+-->
 <!-- Contributions and Streak -->
+<!--
 <div align="center">  
    <img 
         width="50%" 
@@ -37,16 +43,7 @@ https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/docume
         src="https://github-readme-streak-stats.herokuapp.com/?user=reddsimpson&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" 
         alt="Chan Simpson" /></div>
 </div>
-
-<!-- Visitor Counter -->
-<div align="center">
-   <br>
-   <p align="centre"><b>Visitors Count</b></p>
-   <p align="center">
-      <img align="center" src="https://profile-counter.glitch.me/{reddsimpson}/count.svg" />
-   </p>
-   <br>
-</div>
+-->
 <!--
 **reddsimpson/reddsimpson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
