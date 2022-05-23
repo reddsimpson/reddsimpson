@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Chan 👋
+
+- 🔭 I’m currently working on uploading my code to this GitHub along with helpful snippets for all
+- 🌱 I’m currently learning more about AI/ML and OpenCV
 
 <!--  Main Stats
 https://metrics.lecoq.io/
