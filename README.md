@@ -14,6 +14,9 @@ https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/docume
 
 
 <!-- Stats and Most Used Languages -->
+![](https://raw.githubusercontent.com/reddsimpson/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/reddsimpson/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
 <div align="center">
    <img 
         width="44%" 
