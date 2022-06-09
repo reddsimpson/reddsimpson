@@ -21,6 +21,7 @@ https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/docume
 <br>&nbsp;&nbsp;&nbsp;<sub><sup>*Stats provided by jstrieb: https://github.com/jstrieb/github-stats</sup></sub>
 
 <!-- Grade, Stats, and Most Used Languages -->
+<!--
 <div align="left">
    <img 
         width="44%" 
@@ -32,8 +33,9 @@ https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/docume
         height="auto" 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddsimpson&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
-
+-->
 <!-- Contributions and Streak -->
+<!--
 <div align="center">  
    <img 
         width="50%" 
@@ -41,6 +43,7 @@ https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/docume
         src="https://github-readme-streak-stats.herokuapp.com/?user=reddsimpson&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" 
         alt="Chan Simpson" /></div>
 </div>
+-->
 <!--
 **reddsimpson/reddsimpson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
