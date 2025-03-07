@@ -20,6 +20,11 @@ https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/docume
 ![](https://raw.githubusercontent.com/reddsimpson/github-stats/master/generated/languages.svg#gh-light-mode-only)
 <br>&nbsp;&nbsp;&nbsp;<sub><sup>*Stats provided by jstrieb: https://github.com/jstrieb/github-stats</sup></sub>
 
+<br><br>
+[![Reddsimpson's github stats](https://github-readme-stats.vercel.app/api?username=reddsimpson&show_icons=true&count_private=true&theme=radical&hide=stars)](https://github.com/reddsimpson)
+<!--
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=reddsimpson&theme=dark&count_private=true&theme=radical)](https://github.com/reddsimpson)
+-->
 <!-- Grade, Stats, and Most Used Languages -->
 <!--
 <div align="left">
